@@ -1,7 +1,7 @@
-/* @media (min-width: 620px) {
+@media (min-width: 520px) {
   .main-titel {
     font-size: 40px;
-  } */
+  }
 
   .text {
     font-size: 46px;
@@ -47,30 +47,16 @@
   }
 
   .blue {
-    /* font-size: 16px; */
     clear: both;
-      background-color: rgba(111, 209, 231, 0.88);
+      background-color: rgba(191, 218, 224, 0.88);
        padding: 18px;
        padding-left: 70px;
          margin-bottom: 27px;
   }
   .lightblue {
-    background-color: rgba(111, 209, 231, 9);
+    background-color: rgba(191, 218, 224, 0.88);
      padding: 38px;
      padding-left: 70px;
   }
-  /* .lightblue1 {
-    background-color: rgba(111, 209, 2, 9);
-     padding: 38px;
-     padding-left: 70px;
-  } */
+
 }
-
-/*  font-family: sans-serif;
- font-size: 100px;
- text-decoration: underline;
-
- background-color: rgb(165,235,152);
- padding: 5px;
- border: 5px solid blue;
- margin-bottom: 50px;
