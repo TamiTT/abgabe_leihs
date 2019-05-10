@@ -22,13 +22,11 @@
     margin: 0 auto;
     max-width: 800px;
     font-family: sans-serif;
-
     /* display: inline-block; */
   }
 
   .float {
     margin-left: 400px;
-
   }
 
   .links {
@@ -48,15 +46,15 @@
 
   .blue {
     clear: both;
-      background-color: rgba(191, 218, 224, 0.88);
-       padding: 18px;
-       padding-left: 70px;
-         margin-bottom: 27px;
-  }
-  .lightblue {
     background-color: rgba(191, 218, 224, 0.88);
-     padding: 38px;
-     padding-left: 70px;
+    padding: 18px;
+    padding-left: 70px;
+    margin-bottom: 27px;
   }
 
+  .lightblue {
+    background-color: rgba(191, 218, 224, 0.88);
+    padding: 38px;
+    padding-left: 70px;
+  }
 }
